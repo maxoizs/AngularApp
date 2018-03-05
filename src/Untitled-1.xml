@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aliasing>
+	<keywords>
+		<word>
+			<name>Add</name>
+			<singular>add</singular>
+			<plural>adds</plural>
+		</word>
+		<word>
+			<name>Back</name>
+			<singular>back</singular>
+			<plural>back</plural>
+		</word>
+		<word>
+			<name>Cancel</name>
+			<singular>cancel</singular>
+			<plural>cancels</plural>
+		</word>
+		<word>
+			<name>Candidate</name>
+			<singular>candidate</singular>
+			<plural>candidates</plural>
+		</word>
+		<word>
+			<name>CandidateReference</name>
+			<singular usesAn="1">SCN</singular>
+			<plural>SCNs</plural>
+		</word>
+		<word>
+			<name>Central</name>
+			<singular>online</singular>
+			<plural>online</plural>
+		</word>
+		<word>
+			<name>Centre</name>
+			<singular>centre</singular>
+			<plural>centres</plural>
+		</word>
+		<word>
+			<name>Close</name>
+			<singular>close</singular>
+			<plural>closes</plural>
+		</word>
+		<word>
+			<name>Cohort</name>
+			<singular>cohort</singular>
+			<plural>cohorts</plural>
+		</word>
+		<word>
+			<name>Complete</name>
+			<singular>finish</singular>
+			<plural>finishes</plural>
+		</word>
+		<word>
+			<name>Delete</name>
+			<singular>delete</singular>
+			<plural>deletes</plural>
+		</word>
+		<word>
+			<name>Edit</name>
+			<singular usesAn="1">edit</singular>
+			<plural>edits</plural>
+		</word>
+		<word>
+			<name>Exam</name>
+			<singular usesAn="1">assessment</singular>
+			<plural>assessments</plural>
+		</word>
+		<word>
+			<name>ExamInstance</name>
+			<singular>script</singular>
+			<plural>scripts</plural>
+		</word>
+		<word>
+			<name>ExamReference</name>
+			<singular usesAn="1">assessment reference</singular>
+			<plural>assessment references</plural>
+		</word>
+		<word>
+			<name>ExamVersion</name>
+			<singular usesAn="1">assessment version</singular>
+			<plural>assessment versions</plural>
+		</word>
+		<word>
+			<name>ExamVersionReference</name>
+			<singular>version code</singular>
+			<plural>version codes</plural>
+		</word>
+		<word>
+			<name>Female</name>
+			<singular>female</singular>
+			<plural>females</plural>
+		</word>
+		<word>
+			<name>Finish</name>
+			<singular>finish</singular>
+			<plural>finishes</plural>
+		</word>
+		<word>
+			<name>FirstName</name>
+			<singular>forename</singular>
+			<plural>forenames</plural>
+		</word>
+		<word>
+			<name>Invigilator</name>
+			<singular>invigilator</singular>
+			<plural>invigilators</plural>
+		</word>
+		<word>
+			<name>Item</name>
+			<singular usesAn="1">item</singular>
+			<plural>items</plural>
+		</word>
+		<word>
+			<name>Keycode</name>
+			<singular>Keycode</singular>
+			<plural>Keycodes</plural>
+		</word>
+		<word>
+			<name>Local</name>
+			<singular>offline</singular>
+			<plural>offline</plural>
+		</word>
+		<word>
+			<name>Male</name>
+			<singular>male</singular>
+			<plural>males</plural>
+		</word>
+		<word>
+			<name>Next</name>
+			<singular>next</singular>
+			<plural>nexts</plural>
+		</word>
+		<word>
+			<name>OK</name>
+			<singular>OK</singular>
+			<plural>OKs</plural>
+		</word>
+		<word>
+			<name>Parameter</name>
+			<singular>parameter</singular>
+			<plural>parameters</plural>
+		</word>
+		<word>
+			<name>Pin</name>
+			<singular>PIN</singular>
+			<plural>PINs</plural>
+		</word>
+		<word>
+			<name>PrintedExam</name>    
+			<singular>printed assessment</singular>
+			<plural>printed assessments</plural>  
+		</word>	
+		<word>
+			<name>Project</name>
+			<singular>project</singular>
+			<plural>projects</plural>
+		</word>
+		<word>
+			<name>Qualification</name>
+			<singular>subject</singular>
+			<plural>subjects</plural>
+		</word>
+		<word>
+			<name>QualificationReference</name>
+			<singular>subject reference</singular>
+			<plural>subject references</plural>
+		</word>
+		<word>
+			<name>Role</name>
+			<singular>role</singular>
+			<plural>roles</plural>
+		</word>
+		<word>
+			<name>Rule</name>
+			<singular>rule</singular>
+			<plural>rules</plural>
+		</word>
+		<word>
+			<name>Save</name>
+			<singular>save</singular>
+			<plural>saves</plural>
+		</word>
+		<word>
+			<name>ScheduledExam</name>
+			<singular usesAn="1">assessment</singular>
+			<plural>assessments</plural>
+		</word>
+		<word>
+			<name>Search</name>
+			<singular>search</singular>
+			<plural>searches</plural>
+		</word>
+		<word>
+			<name>Section</name>
+			<singular>section</singular>
+			<plural>sections</plural>
+		</word>
+		<word>
+			<name>Surname</name>
+			<singular>surname</singular>
+			<plural>surnames</plural>
+		</word>
+		<word>
+			<name>User</name>
+			<singular>user</singular>
+			<plural>users</plural>
+		</word>
+		<word>
+			<name>Username</name>
+			<singular>user name</singular>
+			<plural>user names</plural>
+		</word>
+	</keywords>
+	<messages>
+		<message>
+			<name>ReturnToLoginScreen</name>
+			<script>
+				To maintain security following a period of inactivity, your session has been terminated. Please click 'Close' and log in again.
+			</script>
+		</message>
+		<message>
+			<name>insufficientPermissionsTitle</name>
+			<script>
+				Insufficient permissions
+			</script>
+		</message>
+		<message>
+			<name>insufficientPermissionsMessage</name>
+			<script>
+				You do not have enough permissions to do anything.
+			</script>
+		</message>
+		<message>
+			<name>ExamCannotBeScheduledTitle</name>
+			<script>
+				Assessment cannot be scheduled
+			</script>
+		</message>
+		<message>
+			<name>ExamCannotBeScheduledMessage</name>
+			<script>
+				You have chosen to deliver the same assessment questions to all candidates. Unfortunately there is no version of this assessment available that hasn't been taken by at least one of your selected candidates. 
+				To schedule the assessment either: 
+				On the delivery tab choose to deliver different questions to candidates(if the option is available for this exam).
+				Or change the candidates you have selected.
+			</script>
+		</message>
+		<message>
+			<name>invalidWSDL</name>
+			<script>
+				It was not possible to connect to the web service. There may be a problem with your Internet connection.
+			</script>
+		</message>
+		<Errors>
+			<message>
+				<name>serverTimedOut</name>
+				<script>
+					The server has timed out after @#@#NumberOfTries#@#@ attempts.
+				</script>
+			</message>
+			<message>
+				<name>KeyCodeError_149</name>
+				<script>
+					This [Exam(l)] does not exist.
+				</script>
+			</message>
+			<message>
+				<name>KeyCodeError_182</name>
+				<script>
+					This [Exam(l)] has already been completed.
+				</script>
+			</message>
+			<message>
+				<name>KeyCodeError_183</name>
+				<script>
+					This [Exam(l)] is locked until the [Exam(l)] window opens.
+				</script>
+			</message>
+			<message>
+				<name>KeyCodeError_184</name>
+				<script>
+					This [Exam(l)] is [Local(l)] and can only be taken locally
+				</script>
+			</message>
+			<message>
+				<name>KeyCodeError_185</name>
+				<script>
+					This [Exam(l)] is currently in use or you need to wait at least 1 minute to gain access
+				</script>
+			</message>
+		</Errors>
+		<Login>
+			<message>
+				<name>Title</name>
+				<script>
+					Log In
+				</script>
+			</message>
+			<message>
+				<name>EnterKeycodePrompt</name>
+				<script>
+					Please enter your [Exam(l)] [Keycode(l)].
+				</script>
+			</message>
+			<message>
+				<name>KeycodePrompt</name>
+				<script>
+					[Keycode]:
+				</script>
+			</message>
+			<message>
+				<name>PreferencesButtonLabel</name>
+				<script>
+					Preferences
+				</script>
+			</message>
+			<message>
+				<name>LoginInvalid</name>
+				<script>
+					Invalid [Keycode]: #@#@REASON@#@# 
+				</script>
+			</message>
+			<message>
+				<name>InvalidClient</name>
+				<script>
+					This [Exam(l)] cannot be accessed through the browser. You must use the SQA SecureClient. Please contact your tutor/[Invigilator(l)] for more information. 
+				</script>
+			</message>
+			<Confirm>
+				<message>
+					<name>Title</name>
+					<script>
+						Confirm Details
+					</script>
+				</message>
+				<message>
+					<name>ConfirmPrompt</name>
+					<script>
+						Please confirm your details.
+					</script>
+				</message>
+				<message>
+					<name>CandidateReferencePrompt</name>
+					<script>
+						[CandidateReference]:
+					</script>
+				</message>
+				<message>
+					<name>ForenamePrompt</name>
+					<script>
+						[FirstName]:
+					</script>
+				</message>
+				<message>
+					<name>SurnamePrompt</name>
+					<script>
+						[Surname]:
+					</script>
+				</message>
+				<message>
+					<name>GenderPrompt</name>
+					<script>
+						Gender:
+					</script>
+				</message>
+				<message>
+					<name>DOBPrompt</name>
+					<script>
+						Date of birth:
+					</script>
+				</message>
+				<message>
+					<name>ExamNamePrompt</name>
+					<script>
+						[Exam] Name:
+					</script>
+				</message>
+				<message>
+					<name>ConfirmButtonLabel</name>
+					<script>
+						Confirm
+					</script>
+				</message>
+			</Confirm>
+			<VersionPopup>
+				<message>
+					<name>Title</name>
+					<script>
+						SecureAssess
+					</script>
+				</message>
+				<message>
+					<name>VersionLabel</name>
+					<script>
+						Version: @#@#VERSION#@#@
+					</script>
+				</message>
+				<message>
+					<name>ContactTitle</name>
+					<script>
+						Support:
+					</script>
+				</message>
+				<message>
+					<name>Contact0</name>
+					<script>
+						Solar Team
+					</script>
+				</message>
+				<message>
+					<name>Contact1</name>
+					<script>
+						solar@sqa.org.uk
+					</script>
+				</message>
+				<message>
+					<name>Contact2</name>
+					<script>
+						0845 213 5405
+					</script>
+				</message>
+				<message>
+					<name>Contact3</name>
+					<script>
+						&#160;
+					</script>
+				</message>
+				<message>
+					<name>Contact4</name>
+					<script>
+						&#160;
+					</script>
+				</message>
+				<message>
+					<name>Contact5</name>
+					<script>
+						&#160;
+					</script>
+				</message>
+			</VersionPopup>
+			<SetColourPreferences>
+				<message>
+					<name>Title</name>
+					<script>
+						Set Colour Preferences
+					</script>
+				</message>
+				<message>
+					<name>ChooseColourOption</name>
+					<script>
+						Choose this option if this text appears clearest
+					</script>
+				</message>
+				<message>
+					<name>RestoreDefaultsOption</name>
+					<script>
+						Restore Defaults
+					</script>
+				</message>
+			</SetColourPreferences>
+		</Login>
+		<WarningPopups>
+			<message>
+				<name>ErrorTitle</name>
+				<script>
+					Error
+				</script>
+			</message>
+			<message>
+				<name>DefaultTitle</name>
+				<script>
+					Warning
+				</script>
+			</message>
+			<message>
+				<name>ResumeCodeTitle</name>
+				<script>
+					Candidate Resume Code Required
+				</script>
+			</message>
+			<message>
+				<name>LockedByInvigilator</name>
+				<script>
+					[Exam] is locked by [Invigilator(l)]. Please wait...
+				</script>
+			</message>
+			<message>
+				<name>LockedByPin</name>
+				<script>
+					[Exam] is locked by [Pin(l)]. Please enter [Pin(l)] to proceed.
+				</script>
+			</message>
+			<message>
+				<name>LockedByResumeCode</name>
+				<script>
+					Please enter the Candidate Resume Code:
+				</script>
+			</message>
+			<message>
+				<name>ReasonForResumeCode</name>
+				<script>
+					Please state the reason for entering the code (using between 5-200 characters) before continuing:
+				</script>
+			</message>
+			<message>
+				<name>ResumeCodeRequired</name>
+				<script>
+					Resume Code Required
+				</script>
+			</message>
+			<message>
+				<name>ExamPaused</name>
+				<script>
+					[Exam] is Paused. Please wait for your [Invigilator(l)] to resume the [Exam(l)].
+				</script>
+			</message>
+			<message>
+				<name>ExamComplete</name>
+				<script>
+					You have completed this [Exam(l)].
+				</script>
+			</message>
+			<message>
+				<name>ExamVoided</name>
+				<script>
+					Your [Exam] has been voided.  Please contact your tutor/[Invigilator(l)] for more information.
+				</script>
+			</message>
+			<message>
+				<name>UnknownState</name>
+				<script>
+					Unknown State.
+				</script>
+			</message>
+			<message>
+				<name>TimeUpTitle</name>
+				<script>
+					Time Up
+				</script>
+			</message>
+			<message>
+				<name>TimeUpText</name>
+				<script>
+					The time period allocated for this [Exam(l)] is now complete.
+				</script>
+			</message>
+			<message>
+				<name>ReturnToLoginScreen</name>
+				<script>
+					You need to enter your [Keycode(l)] to resume your [Exam(l)]. Please close this message to continue.
+				</script>
+			</message>
+			<SummaryFeedback>
+				<message>
+					<name>PanelTitle</name>
+					<script>
+						[Exam] Feedback
+					</script>
+				</message>
+				<message>
+					<name>Intro1</name>
+					<script>
+						Given below is a summary of your completed [Exam(l)].
+					</script>
+				</message>
+				<message>
+					<name>ClickInstruction</name>
+					<script>
+						You can review each of the items by selecting individual question buttons.
+					</script>
+				</message>
+				<message>
+					<name>Result</name>
+					<script>
+						[Exam] Result
+					</script>
+				</message>
+				<message>
+					<name>HumanMarkedResult</name>
+					<script>
+						Results:
+					</script>
+				</message>
+				<message>
+					<name>ExamResultText</name>
+					<script>
+						Result:
+					</script>
+				</message>	
+				<message>
+					<name>HumanMarkedScore</name>
+					<script>
+						Pending
+					</script>
+				</message>
+				<message>
+					<name>ExamSectionPercentScore</name>
+					<script>
+						Percentage: {}%
+					</script>
+				</message>
+				<message>
+					<name>ExamSectionActualScore</name>
+					<script>
+						Score: {X} out of {N}
+					</script>
+				</message>				
+			</SummaryFeedback>
+			<Result>
+				<message>
+					<name>ShortPass</name>
+					<script>
+						Pass
+					</script>
+				</message>
+				<message>
+					<name>ShortFail</name>
+					<script>
+						Fail
+					</script>
+				</message>
+				<message>
+					<name>FailedExam</name>
+					<script>
+						Unfortunately on this occasion you have not passed the [Exam(l)]. Please speak to your tutor for further information.
+					</script>
+				</message>
+				<message>
+					<name>PassedExam</name>
+					<script>
+						Well done. You have passed this [Exam(l)].
+					</script>
+				</message>
+			</Result>
+			<HumanMarked>
+				<message>
+					<name>HumanMarkedText</name>
+					<script>
+						Once this has been marked your tutor will inform you of the result.
+					</script>
+				</message>
+			</HumanMarked>
+			<Warehoused>
+				<message>
+					<name>Title</name>
+					<script>
+						[Exam] Warehoused
+					</script>
+				</message>
+				<message>
+					<name>ExamComplete</name>
+					<script>
+						Your [Exam] is complete. Thank you.
+					</script>
+				</message>
+			</Warehoused>
+			<Pin>
+				<message>
+					<name>IncorrectPinText</name>
+					<script>
+						The [Pin(l)] that you entered was not verified. Please try again.
+					</script>
+				</message>
+				<message>
+					<name>IncorrectPinTitle</name>
+					<script>
+						Incorrect [Pin(l)]
+					</script>
+				</message>
+				<message>
+					<name>ButtonText</name>
+					<script>
+						Enter
+					</script>
+				</message>
+			</Pin>
+			<ResumeCode>
+				<message>
+					<name>IncorrectResumeCodeText</name>
+					<script>
+						The [ResumeCode(l)] that you entered was not verified. Please try again.
+					</script>
+				</message>
+				<message>
+					<name>IncorrectResumeCodeTitle</name>
+					<script>
+						Incorrect [ResumeCode(l)]
+					</script>
+				</message>
+				<message>
+					<name>ButtonText</name>
+					<script>
+						Submit
+					</script>
+				</message>
+			</ResumeCode>
+			<ReminderWindow>
+				<message>
+					<name>TimeReminderMessage</name>
+					<script>
+						You have {} minutes left.
+					</script>
+				</message>
+			</ReminderWindow>
+			<ExitWarnings>
+				<message>
+					<name>incompleteAndFlagged</name>
+					<script>
+						You have not attempted all of the questions within this [Exam(l)], and some have been flagged.\n \n Are you sure you would like to [Complete(l)]?
+					</script>
+				</message>
+				<message>
+					<name>incomplete</name>
+					<script>
+						You have not attempted all of the questions within this [Exam(l)].\n \n Are you sure you would like to [Complete(l)]?
+					</script>
+				</message>
+				<message>
+					<name>flagged</name>
+					<script>
+						Some of the questions within this [Exam(l)] have been flagged.\n \n Are you sure you would like to [Complete(l)]?
+					</script>
+				</message>
+				<message>
+					<name>complete</name>
+					<script>
+						Are you sure you would like to [Complete(l)]?
+					</script>
+				</message>
+				<message>
+					<name>finalExitConfirmation</name>
+					<script>
+						By choosing [Finish] you will exit this [Exam(l)].
+					</script>
+				</message>
+				<message>
+					<name>finish</name>
+					<script>
+						[Complete]
+					</script>
+				</message>
+				<message>
+					<name>cancel</name>
+					<script>
+						Return
+					</script>
+				</message>
+				<message>
+					<name>ExitButtonLabel</name>
+					<script>
+						Exit
+					</script>
+				</message>
+				<message>
+					<name>ConfirmQuitMessage</name>
+					<script>
+						Are you sure you want to [Complete]?
+					</script>
+				</message>
+				<message>
+					<name>ExitAfterTimeupButtonLabel</name>
+					<script>
+						Close
+					</script>
+				</message>
+				<message>
+					<name>ProceedAfterTimeupButtonLabel</name>
+					<script>
+						[Next]
+					</script>
+				</message>
+				<message>
+					<name>SendingData</name>
+					<script>
+						Sending data...
+					</script>
+				</message>
+				<message>
+					<name>UnableToSubmitTitle</name>
+					<script>
+						Unable to submit [Exam(l)]
+					</script>
+				</message>
+				<message>
+					<name>UnableToSubmit</name>
+					<script>
+						It was not possible to submit your [Exam(l)], possibly because the [Invigilator(l)] paused or voided your [Exam(l)]
+					</script>
+				</message>
+			</ExitWarnings>
+		</WarningPopups>
+		<Assessment>
+			<message>
+				<name>IntroButtonText</name>
+				<script>
+					Introduction
+				</script>
+			</message>
+			<TitleBar>
+				<message>
+					<name>ExamNamePrompt</name>
+					<script>
+						<B>[Exam]:</B>&#160;@#@#ExamName#@#@
+					</script>
+				</message>
+				<message>
+					<name>questionName</name>
+					<script>
+						
+					</script>
+				</message>
+				<message>
+					<name>questionNameWithoutSection</name>
+					<script>
+						
+					</script>
+				</message>
+				<message>
+					<name>CandidateNamePrompt</name>
+					<script>
+						<B>[Candidate]:</B>&#160;@#@#CandidateName#@#@
+					</script>
+				</message>
+				<message>
+					<name>TimeRemainingPrompt</name>
+					<script>
+						Time Remaining:
+					</script>
+				</message>
+				<message>
+					<name>PreferencesLabel</name>
+					<script>
+						Preferences
+					</script>
+				</message>
+				<message>
+					<name>HelpLabel</name>
+					<script>
+						Tutorial
+					</script>
+				</message>
+				<message>
+					<name>FinishLabel</name>
+					<script>
+						[Finish]
+					</script>
+				</message>
+				<message>
+					<name>ExitLabel</name>
+					<script>
+						Exit
+					</script>
+				</message>
+				<message>
+					<name>QuitLabel</name>
+					<script>
+						[Complete]
+					</script>
+				</message>
+			</TitleBar>
+			<NavigationBar>
+				<message>
+					<name>StartAssessmentLabel</name>
+					<script>
+						Start [Exam]
+					</script>
+				</message>
+				<message>
+					<name>FlagButtonLabel</name>
+					<script>
+						Flag
+					</script>
+				</message>
+				<message>
+					<name>ReturnButtonLabel</name>
+					<script>
+						Return
+					</script>
+				</message>
+				<message>
+					<name>NextButtonLabel</name>
+					<script>
+						Next
+					</script>
+				</message>
+				<message>
+					<name>NextIntroButtonLabel</name>
+					<script>
+						Next
+					</script>
+				</message>
+				<message>
+					<name>BackButtonLabel</name>
+					<script>
+						Back
+					</script>
+				</message>
+				<message>
+					<name>PreviousIntroButtonLabel</name>
+					<script>
+						Back
+					</script>
+				</message>
+				<message>
+					<name>ZoomButtonLabel</name>
+					<script>
+						Zoom
+					</script>
+				</message>
+				<message>
+					<name>IntroductionButtonLabel</name>
+					<script>
+						Introduction
+					</script>
+				</message>
+				<message>
+					<name>CommentButtonLabel</name>
+					<script>
+						Comment
+					</script>
+				</message>
+				<message>
+					<name>RemoveCommentLabel</name>
+					<script>
+						Remove Comment
+					</script>
+				</message>
+				<message>
+					<name>CancelButtonLabel</name>
+					<script>
+						Cancel
+					</script>
+				</message>
+				<message>
+					<name>SaveButtonLabel</name>
+					<script>
+						Save
+					</script>
+				</message>
+				<message>
+					<name>YesButtonLabel</name>
+					<script>
+						Yes
+					</script>
+				</message>
+				<message>
+				<message>
+					<name>ContinueAssessmentButtonLabel</name>
+					<script>
+						Continue [Exam]
+					</script>
+				</message>
+				<message>
+					<name>BreadCrumbUpLabel</name>
+					<script>
+						Up
+					</script>
+				</message>
+				<message>
+					<name>BreadCrumbDownLabel</name>
+					<script>
+						Down
+					</script>
+				</message>
+				<message>
+					<name>SectionNameLabel</name>
+					<script>
+						#@#@SECTIONAME@#@# 
+					</script>
+				</message>				
+			</NavigationBar>
+			<DownloadingVideoPopup>
+				<message>
+					<name>Title</name>
+					<script>
+						Downloading Video
+					</script>
+				</message>
+			</DownloadingVideoPopup>
+		</Assessment>
+		<ExamResults>
+			<message>
+				<name>ShortExamPercentage</name>
+				<script>
+					Mark:  {}%
+				</script>
+			</message>
+			<message>
+				<name>ShortExamResultActual</name>
+				<script>
+					Mark: {X} out of {N}
+				</script>
+			</message>
+			<message>
+				<name>ExamPercentage</name>
+				<script>
+					Your [Exam(l)] mark is:- {}%
+				</script>
+			</message>
+			<message>
+				<name>ExamResultActual</name>
+				<script>
+					Your [Exam(l)] mark is: {X} %
+				</script>
+				<!-- out of {N} -->
+			</message>
+			<message>
+				<name>NonAutoVerification</name>
+				<script>
+					The [Exam(l)] result requires to be verified and your tutor will confirm your final result.
+				</script>
+			</message>
+		</ExamResults>
+		<message>
+			<name>ReturnToLoginScreen</name>
+			<script>
+				You need to enter your [Keycode(l)] to resume your [Exam(l)]. Please close this message to continue. After closing this message, you have to wait 1 minute to gain access to your [Exam(l)]. 
+			</script>
+		</message>
+		<message>
+			<name>PercentagePassFailResult</name>
+			<script>
+				Note: This is a preliminary mark. To obtain your final mark, please contact SQA.
+			</script>
+		</message>
+		<message>
+			<name>TimeOutError</name>
+			<script>
+				Server has timed out!
+			</script>
+		</message>
+		<message>
+			<name>UnknownError</name>
+			<script>
+				An unknown error occured!
+			</script>
+		</message>
+		<message>
+			<name>CommunicationError</name>
+			<script>
+				A communication error occured!
+			</script>
+		</message>
+		<message>
+			<name>videoDisplayBuffering</name>
+			<script>
+				Buffering
+			</script>
+		</message>
+	</messages>
+	<months>
+		<month>January</month>
+		<month>February</month>
+		<month>March</month>
+		<month>April</month>
+		<month>May</month>
+		<month>June</month>
+		<month>July</month>
+		<month>August</month>
+		<month>September</month>
+		<month>October</month>
+		<month>November</month>
+		<month>December</month>
+	</months>
+</aliasing>
